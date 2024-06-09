@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=saicharan1312&label=Profile%20views&color=0e75b6&style=flat" alt="saicharan1312" /> </p>
 
-# Hi there, I'm Sai Charan - iOS developer / Data Scientist 👋
+# Hi there, I'm Sai Charan - iOS Developer / Data Scientist 👋
 I'm a passionate Data Scientist and Software Developer with a strong foundation in machine learning and data analysis. I love building innovative solutions that leverage cutting-edge technologies to solve real-world problems.
 
 <div align="center">
@@ -56,37 +56,36 @@ I'm a passionate Data Scientist and Software Developer with a strong foundation 
 <br />
 
 I'm proficient in several programming languages, including:
-- **Python:** Used extensively for data analysis, machine learning, and web development projects.
-- **SQL:** Proficient in writing complex queries and managing databases.
-- **C++ and Java:** Solid understanding for algorithm design and software development.
-- **JavaScript:** Used for web development and adding interactivity to applications.
+- **Python:** Used extensively for data analysis, machine learning, and web development projects. 🐍
+- **SQL:** Proficient in writing complex queries and managing databases. 🗄️
+- **C++ and Java:** Solid understanding for algorithm design and software development. 💻
+- **JavaScript:** Used for web development and adding interactivity to applications. 🌐
 
 ### Data Science Tools:
 I have experience with various data science tools and libraries, such as:
-- **TensorFlow and PyTorch:** Utilized for building and training deep learning models.
-- **Scikit-learn:** Used for implementing machine learning algorithms and data preprocessing.
-- **Pandas and NumPy:** Essential for data manipulation and analysis.
-- **Matplotlib:** Used for creating visualizations to gain insights from data.
+- **TensorFlow and PyTorch:** Utilized for building and training deep learning models. 🤖
+- **Scikit-learn:** Used for implementing machine learning algorithms and data preprocessing. 📊
+- **Pandas and NumPy:** Essential for data manipulation and analysis. 🐼
+- **Matplotlib:** Used for creating visualizations to gain insights from data. 📈
 
 ### Cloud Platforms:
 I'm familiar with cloud platforms and services, including:
-- **AWS (Amazon Web Services):** Used for deploying applications, managing data, and running machine learning models.
-- **Google Cloud Platform:** Leveraged for cloud computing tasks and storage solutions.
+- **AWS (Amazon Web Services):** Used for deploying applications, managing data, and running machine learning models. ☁️
+- **Google Cloud Platform:** Leveraged for cloud computing tasks and storage solutions. 🌥️
 
 ## Certifications
 
 I've completed the following certifications:
 
-- **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
-- **Fundamentals of Scalable Data Science - IBM (Digital Badge)**
-- **Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy)**
+- **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning** 🧠
+- **Fundamentals of Scalable Data Science - IBM (Digital Badge)** 🎓
+- **Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy)** 📜
 
 ## Let's Connect!
 
-If you're interested in collaborating or just want to say hi, feel free to connect with me on [LinkedIn](linkedin.com/in/sai-charan-thummalapudi). I'm always open to new opportunities and discussions!
+If you're interested in collaborating or just want to say hi, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sai-charan-thummalapudi/). I'm always open to new opportunities and discussions!
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-charan-thummalapudi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-charan-thummalapudi/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/cherry131211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/cherry131211/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sai-charan-thummalapudi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-charan-thummalapudi" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/cherry131211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode profile" height="30" width="40" /></a>
 </p>
-
