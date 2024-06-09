@@ -11,9 +11,9 @@ I'm a passionate Data Scientist and Software Developer with a strong foundation 
 ## About Me
 
 - 🎓 Master's in Data Science from the University of Maryland, Baltimore County
-- 💼 Currently seeking full-time opportunities in Data Science and Software Development
+- 💼 Currently seeking full-time opportunities in iOS Development and Data Science
 - 🌱 Always learning and exploring new technologies
-- 💻 Skilled in Python, SQL, Machine Learning, Data Visualization, and Cloud Computing
+- 💻 Skilled in Swift, SwiftUI, Xcode, Python, SQL, Machine Learning, Data Visualization, and Cloud Computing
 - 📫 How to reach me: [saicharan12nov@gmail.com](mailto:saicharan12nov@gmail.com)
 
 ## My Skills, Languages and Tools:
