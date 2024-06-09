@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=saicharan1312&label=Profile%20views&color=0e75b6&style=flat" alt="saicharan1312" /> </p>
 
-# Hi there, I'm Sai Charan T - iOS developer / Data Scientist 👋
+# Hi there, I'm Sai Charan - iOS developer / Data Scientist 👋
 I'm a passionate Data Scientist and Software Developer with a strong foundation in machine learning and data analysis. I love building innovative solutions that leverage cutting-edge technologies to solve real-world problems.
 
 <div align="center">
