@@ -2,13 +2,14 @@
 
 # Hi there, I'm Sai Charan - iOS Developer / Data Scientist 👋
 I'm a passionate Data Scientist and Software Developer with a strong foundation in machine learning and data analysis. I love building innovative solutions that leverage cutting-edge technologies to solve real-world problems.
-<div>
-![Sai Charan's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-</div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saicharan1312&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
+ <div class="container">
+        <div>
+            <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" alt="Sai Charan's GitHub Stats">
+        </div>
+        <div>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saicharan1312&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph">
+        </div>
+    </div>
 ## About Me
 
 - 🎓 Master's in Data Science from the University of Maryland, Baltimore County
