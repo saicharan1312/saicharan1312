@@ -2,31 +2,6 @@
 
 # Hi there, I'm Sai Charan - iOS Developer / Data Scientist 👋
 I'm a passionate Data Scientist and Software Developer with a strong foundation in machine learning and data analysis. I love building innovative solutions that leverage cutting-edge technologies to solve real-world problems.
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-        .container img {
-            width: 320px; /* Set the width of both images */
-            height: auto; /* Maintain aspect ratio */
-            margin: 10px;
-        }
-    </style>
-    <title>GitHub Stats</title>
-</head>
-<body>
-    <div class="container">
-        <img src="https://github-readme-stats.vercel.app/api?username=saicharan1312&theme=dark&show_icons=true" alt="Sai Charan's GitHub Stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saicharan1312&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="Languages Graph">
-    </div>
-</body>
-</html>
  <div class="container">
         <div>
             <img src="https://github-readme-stats.vercel.app/api?username=saicharan1312&theme=dark&show_icons=true" alt="Sai Charan's GitHub Stats">
