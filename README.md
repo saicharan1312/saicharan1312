@@ -8,7 +8,7 @@ I'm a passionate Data Scientist and an iOS Developer with a strong foundation in
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saicharan1312&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph">
         </div>
     </div>
-    
+  
 ## About Me
 
 - 🎓 Master's in Data Science from University of Maryland, Baltimore County
