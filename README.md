@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=saicharan1312&label=Profile%20views&color=0e75b6&style=flat" alt="saicharan1312" /> </p>
 
 # Hi there, I'm Sai Charan - iOS Developer / Data Scientist 👋
-I'm a passionate Data Scientist and Software Developer with a strong foundation in machine learning and data analysis. I love building innovative solutions that leverage cutting-edge technologies to solve real-world problems.
+I'm a passionate Data Scientist and an iOS Developer with a strong foundation in Swift, SwiftUI, Machine learning and Data analysis. I love building innovative solutions that leverage cutting-edge technologies to solve real-world problems.
  <div class="container">
         <div>
             <img src="https://github-readme-stats.vercel.app/api?username=saicharan1312&theme=dark&show_icons=true" alt="Sai Charan's GitHub Stats" height="175">
