@@ -4,7 +4,7 @@
 I'm a passionate Data Scientist and Software Developer with a strong foundation in machine learning and data analysis. I love building innovative solutions that leverage cutting-edge technologies to solve real-world problems.
  <div class="container">
         <div>
-            <img src="https://github-readme-stats.vercel.app/api?username=saicharan1312&theme=dark&show_icons=true" alt="Sai Charan's GitHub Stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=saicharan1312&theme=dark&show_icons=true" alt="Sai Charan's GitHub Stats" height="150">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saicharan1312&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph">
         </div>
     </div>
