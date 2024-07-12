@@ -11,7 +11,7 @@ I'm a passionate Data Scientist and an iOS Developer with a strong foundation in
     
 ## About Me
 
-- 🎓 Master's in Data Science from the University of Maryland, Baltimore County
+- 🎓 Master's in Data Science from University of Maryland, Baltimore County
 - 💼 Currently seeking full-time opportunities in iOS Development and Data Science
 - 🌱 Always learning and exploring new technologies
 - 💻 Skilled in Swift, SwiftUI, Xcode, Python, SQL, Machine Learning, Data Visualization, and Cloud Computing
